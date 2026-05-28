@@ -23,7 +23,7 @@ This model will (hopefully) be able to:
 - Matplotlib
 - Plotly
 
-### Data Sources
+## Data Sources
 - NBA Stats API -https://github.com/swar/nba_api
 - Basketball Reference datasets
 - Kaggle NBA datasets

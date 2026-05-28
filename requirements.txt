@@ -1,0 +1,29 @@
+# Core backend
+fastapi
+uvicorn
+pydantic
+
+# Data handling
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+torch
+torchvision
+
+# Data visualization (for APIs / notebooks)
+matplotlib
+seaborn
+plotly
+
+# NBA data
+nba_api
+
+# Utilities
+requests
+python-dotenv
+tqdm
+
+# Optional (recommended for production)
+gunicorn

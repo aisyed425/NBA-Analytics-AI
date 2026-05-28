@@ -8,18 +8,18 @@ This model will (hopefully) be able to:
 - Simulate NBA game outcomes using probabilistic models
 
 ## Tech Stack
-Frontend:
+### Frontend:
 - Next.js
 - React
 - Tailwind CSS
-Backend:
+### Backend:
 - FastAPI
 - PostgreSQL
-Machine Learning:
+### Machine Learning:
 - PyTorch
 - pandas
 - scikit-learn
-Visualization:
+### Visualization:
 - Matplotlib
 - Plotly
 
